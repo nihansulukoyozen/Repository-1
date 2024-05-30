@@ -1,2 +1,4 @@
 -İlk satır kod
 -ikinci satır kod
+-3
+-4

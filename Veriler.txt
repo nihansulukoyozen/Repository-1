@@ -1,2 +1,5 @@
 -kullanıcı1
 -kullanıcı2
+
+-ürün1
+-ürün2
